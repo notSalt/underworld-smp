@@ -1,0 +1,13 @@
+name = "Abundant Atmosphere"
+filename = "AbundantAtmosphere-1.19.2-1.2.0-beta.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "99ca239cc5532be2cc033240162670374732ada2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4361102
+project-id = 682418

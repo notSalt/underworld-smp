@@ -1,0 +1,13 @@
+name = "Skinned Lanterns (Forge)"
+filename = "skinned_lanterns-1.19.2-1.3.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ee03c4091d6fc2fbe320ec0180147d52c65ace39"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3970173
+project-id = 414154

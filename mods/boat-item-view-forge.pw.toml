@@ -1,0 +1,13 @@
+name = "Boat Item View (Forge)"
+filename = "Boat-Item-View-Forge-1.19.x-0.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "86addb23ce910ad80617fddd53801d8e212f1ea1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3921224
+project-id = 482444

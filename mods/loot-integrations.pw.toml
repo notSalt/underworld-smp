@@ -1,0 +1,13 @@
+name = "Loot Integrations[Forge/Fabric]"
+filename = "lootintegrations-1.19-3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "91ef4375bd99d596d2e4695ba1bab469e6e6d86a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4431392
+project-id = 580689

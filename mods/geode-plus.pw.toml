@@ -1,0 +1,13 @@
+name = "Geode+ [Forge/Fabric]"
+filename = "geodeforge-1.1.8-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ed883f0b0991845cae4fbafb3fd981e2208e30f9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4436710
+project-id = 620784

@@ -1,0 +1,13 @@
+name = "Explorations [Forge|Fabric]"
+filename = "explorations-forge-1.19.2-1.5.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3394e13788f5aef5ea763cc50cc9e55332702aa5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4466081
+project-id = 550247

@@ -1,0 +1,13 @@
+name = "Sculked"
+filename = "Sculked V1.4.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b64a1549e12e8394995a3094bccf63bab388ae97"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4445330
+project-id = 709636
