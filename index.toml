@@ -37,12 +37,12 @@ metafile = true
 
 [[files]]
 file = "mods/ambient-environment.pw.toml"
-hash = "f6c466b990806a78b1963f838d1d64d2f5fe3cee1d1894c6a21880ba614110d1"
+hash = "c9e266f2021268c9629473a3f92edd5866c7154ec349bb12daf6e0b383d36644"
 metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "e83a90a5cf68abc34b30252825b16e0c95ca9245cf99788265020d6fa106e86a"
+hash = "85ac2c51b3a440002b694ac6c3b89e5ac35b7889973eb40ae1511e21b450794e"
 metafile = true
 
 [[files]]
@@ -217,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "a594468e7f16938abe9f7ddcd278d4a68b8e88ba176e1b8c11728b01c5588156"
+hash = "66549f4691916248f36b3a0c7305e55c9962768f1f9c8b941b141090df74009c"
 metafile = true
 
 [[files]]
@@ -307,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "8bd03ec336518fbc213d2c8d3bee7389a8ba193dc64f87e2a6dafd8efbf041d9"
+hash = "a9cb93bbd656d2fb32bc46bb21a85bf5c29d3bae52386376ab35736abd7a073c"
 metafile = true
 
 [[files]]
@@ -677,7 +677,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-highlighter.pw.toml"
-hash = "f0e459f04344ee49579779c839094a86d68cba4e27b8e890e6d923437632eef5"
+hash = "99c90605fa48bc0625ac232035a13e76f1e5afb590d201725c9a5f2cbe4bd350"
 metafile = true
 
 [[files]]
@@ -752,7 +752,7 @@ metafile = true
 
 [[files]]
 file = "mods/legendary-tooltips.pw.toml"
-hash = "94184f6d3c1fd64f3b79ebf4cb2474bd71dc0651117d8c605942490b1cd518b8"
+hash = "e01b80a9797007df118caea7f9b87d6b426cbe7c15f23517e0cd220845141463"
 metafile = true
 
 [[files]]
@@ -1012,7 +1012,7 @@ metafile = true
 
 [[files]]
 file = "mods/reauth.pw.toml"
-hash = "da46985b92972295e91b1a3365b79fdd526ce3f7000c56e4975fa63112f57837"
+hash = "71ea9ac031814496a679ede967bbd8db9b765a2725dbfddee7f0b90e653abd38"
 metafile = true
 
 [[files]]
@@ -1237,7 +1237,7 @@ metafile = true
 
 [[files]]
 file = "mods/travelers-titles.pw.toml"
-hash = "20715dfbf9bcbe046340aa01d4a72e25f357be4442b7f5e36200976140671399"
+hash = "ab32a4b0eea4d79ccfe914b6b17b7452183f391d8bca272d36228d4b6ad1dc1f"
 metafile = true
 
 [[files]]
@@ -1377,7 +1377,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/enhanced-boss-bars.pw.toml"
-hash = "7a34398bf1885191b360f8865705f843db6bd195ef889717504137ed1cfb2b3b"
+hash = "7e23c3083f2c9cac239eb2d87e8f00ee167abaf4b67ec04c6e94b1480e616dd5"
 metafile = true
 
 [[files]]
