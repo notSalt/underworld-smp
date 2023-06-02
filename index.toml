@@ -15,11 +15,6 @@ hash = "49bb7a3718852d8ae9cece76f86456fec2c14f9a6ac9a596432d6b5976474899"
 metafile = true
 
 [[files]]
-file = "mods/advancement-plaques.pw.toml"
-hash = "945ceb14e94115ed5dcc77b0e7aed6340e034e4e07aa4ca2a542ac9d12827f5c"
-metafile = true
-
-[[files]]
 file = "mods/alexs-mobs.pw.toml"
 hash = "db28449fb57fcd2607019fa7cefb558d13df13937b44298b732d44bac0e32e96"
 metafile = true
@@ -27,11 +22,6 @@ metafile = true
 [[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "7d97c74a8face79b86276545e903f7e37191b69137376c4269464fd51e9a9ca6"
-metafile = true
-
-[[files]]
-file = "mods/ambientsounds.pw.toml"
-hash = "e83a90a5cf68abc34b30252825b16e0c95ca9245cf99788265020d6fa106e86a"
 metafile = true
 
 [[files]]
@@ -101,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-advancements.pw.toml"
-hash = "6d5097ecaf832199d5a8eb0d28bf7869134b54f93fd0999b7bdfe0129716c720"
+hash = "eef559e883571b6f758e6e20dc78e8f02edcde146bb17006fad4097530d7ed43"
 metafile = true
 
 [[files]]
@@ -111,12 +101,12 @@ metafile = true
 
 [[files]]
 file = "mods/better-fps-render-distance.pw.toml"
-hash = "d1246be95620574e67ed05ffb8178d2f1f61f369e88b2617e9b70ece360e9d35"
+hash = "70586524d54fab4e7201b558bd48ee5c546300ecfd6e6a8a888dc6935def13c4"
 metafile = true
 
 [[files]]
 file = "mods/better-mods-button.pw.toml"
-hash = "67da1f38e9e5b53406cc1cd79c25373a667e27bb6c5495fcb26d1dd80ba09e58"
+hash = "70e5d9a31e36fa395537b988e80eac7058eb1498b8d6e286f210ba9946bd5fb0"
 metafile = true
 
 [[files]]
@@ -146,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/boat-item-view-forge.pw.toml"
-hash = "443dbee73e40d85e90d1e0865bb7606a2a34084659a7a1c23ec68962be24efaf"
+hash = "dca60cff57d62abaaae5975e5ad2db058efe4e089cf1e13a711ad4715eea92ca"
 metafile = true
 
 [[files]]
@@ -191,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/cherished-worlds.pw.toml"
-hash = "1e04e7a0487aa7387b5eab747ea745ef94561f119459227fbbcbd1ddd24d146a"
+hash = "31999cbfc7302230459404fe94937f419a96c5a90d3d3bdd62f737b191f8f93e"
 metafile = true
 
 [[files]]
@@ -241,7 +231,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "a94bec93c6e2f350d4bfd94d6f557fca51ef4358aa4a714e87816243537a6623"
+hash = "ff54075e027c8b92cd02c42e5030108cffb34358b92fd3ab4adcaf47c9d5b898"
 metafile = true
 
 [[files]]
@@ -276,7 +266,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-crystal-clear.pw.toml"
-hash = "8520d6e202b7fd6b5edb0456e8974b45cdee30c2cc7df345c329cca3bd3e258a"
+hash = "b8d11969b1c0a76392e33cdb64c75ea35828fb0fae95cf4f5d70db497c2eec23"
 metafile = true
 
 [[files]]
@@ -311,7 +301,7 @@ metafile = true
 
 [[files]]
 file = "mods/culllessleaves-reforged.pw.toml"
-hash = "964b25f2399fc4c4ed62a1a1f5ad9d6efa84e5ff1c01243c42b66cfbb74c2127"
+hash = "889dac3fb26bf19b833bc7945083e17281fb685aad20e479e6e8bd29e8efd6d2"
 metafile = true
 
 [[files]]
@@ -342,6 +332,11 @@ metafile = true
 [[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "d6c697bcdae1ccd5ce538db59329bfae414cb99ac0eb2eae8d289c939584875b"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "c229ce0882d006e76dd11778334f66b16c076f0762978bd382a7eeb3a0ce5d1e"
 metafile = true
 
 [[files]]
@@ -411,7 +406,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "32919ba2d15d55cec37bc8759064e1983e9a917c3ccfe25c4ad880cbf0a7026b"
+hash = "513160f663842a09b92a156d56279b8215305fa4c8ca1f4ed1e82b21f3fd3247"
 metafile = true
 
 [[files]]
@@ -421,7 +416,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-collision-fps-fix.pw.toml"
-hash = "f2bdada853b7968d2106949fcc1327dd0f445149a75c7e523f9d07c05d6d9fc0"
+hash = "be7e571d96df4be059d97ac435ac4fe4c180ca5d084b62e2e25343faae4ec238"
 metafile = true
 
 [[files]]
@@ -466,7 +461,7 @@ metafile = true
 
 [[files]]
 file = "mods/falling-leaves-forge.pw.toml"
-hash = "860fbe14f20d3a7d73e0219317afaab6964e4635c14698db3c7f70cb230a6e6f"
+hash = "4e3cdda41b86f919528e422e6e7781c0c69c89938cf8d25ee0f3518b85938c2f"
 metafile = true
 
 [[files]]
@@ -491,12 +486,7 @@ metafile = true
 
 [[files]]
 file = "mods/farsight.pw.toml"
-hash = "93c7e8b8746b2fb88a262b13234ad6d1800aa54264d12ae2fa5ddbd8e2b85a14"
-metafile = true
-
-[[files]]
-file = "mods/fast-leaf-decay.pw.toml"
-hash = "da09edd338fa641d7eee1b96ecc2cc5e6dc9d299c68da33741b3b81854a551ef"
+hash = "58ecf8f9d6818c9c64c30decdd0126c2b3001539b56e001cf6120879863e8a05"
 metafile = true
 
 [[files]]
@@ -556,7 +546,7 @@ metafile = true
 
 [[files]]
 file = "mods/grass-overhaul.pw.toml"
-hash = "42232a03966fbac127e9a505cfed97f05c35bb587e68cbfefe0f7fb8c59bc69e"
+hash = "6351039139fe83554ab468a6de01485a2834dea061e7e95c0a9e1c00e4329bf9"
 metafile = true
 
 [[files]]
@@ -586,7 +576,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast-reforged.pw.toml"
-hash = "2c15dd144b734cc912adac29e62035b25b0063486b96102628a422bfeed0a249"
+hash = "74ce493c3d01240373a7b2091144f9af2b6b4ceb230ab41388a51229d99c61b2"
 metafile = true
 
 [[files]]
@@ -601,17 +591,12 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-hud-forge.pw.toml"
-hash = "44b1ceed86da941acbdb1c107f795e1320cb4e2bfc980548da8d1ee6d1764257"
+hash = "d37e48d9fc0474243576ab7b57a1e1334faef979fbc8f2d7c03677172e9c58d8"
 metafile = true
 
 [[files]]
 file = "mods/it-takes-a-pillage.pw.toml"
 hash = "fdb8c310c88b0b525682fd2442e45f3cfc4bf007bab0900b185e7a3074cc30ef"
-metafile = true
-
-[[files]]
-file = "mods/item-filters.pw.toml"
-hash = "e00e666fc6f0726fcca0f74f9252ba4b1022326ee65433b5aaa08bcd14f4390b"
 metafile = true
 
 [[files]]
@@ -681,7 +666,7 @@ metafile = true
 
 [[files]]
 file = "mods/legendary-tooltips.pw.toml"
-hash = "94184f6d3c1fd64f3b79ebf4cb2474bd71dc0651117d8c605942490b1cd518b8"
+hash = "e01b80a9797007df118caea7f9b87d6b426cbe7c15f23517e0cd220845141463"
 metafile = true
 
 [[files]]
@@ -756,7 +741,7 @@ metafile = true
 
 [[files]]
 file = "mods/magnesium-extras.pw.toml"
-hash = "d93b24738d19f8c9611c05f30a74e615f9412a959bb3a4a16661d31be08a3493"
+hash = "15bab7aef2da1c1bf579bd728a270fca71cf9ba457fa4ac1065ffd2c4c692bf8"
 metafile = true
 
 [[files]]
@@ -767,11 +752,6 @@ metafile = true
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "ad64853eb5ba56dc6e4b1bb9214dbfe28e2a0c865dc76b4b77edee0f11adceff"
-metafile = true
-
-[[files]]
-file = "mods/mod-name-tooltip.pw.toml"
-hash = "b14e718951c8003a40ce2bc4918109a1526302adc235553efa9208d67e09e07a"
 metafile = true
 
 [[files]]
@@ -801,7 +781,7 @@ metafile = true
 
 [[files]]
 file = "mods/nekos-enchanted-books.pw.toml"
-hash = "49d56d76531eb631ea7978fa52729325a41c262d20fa605f7fa2732f5521f126"
+hash = "f9aacce691fc98b2d6a72c3c0fd4c5d1ee735f906fa9fceb45d20d823acac4e2"
 metafile = true
 
 [[files]]
@@ -831,7 +811,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "b1cee41a780aa8fbb9367dab6024a78c2b8e5a257ebed5d2754ff27f816d9cdd"
+hash = "8b0ea61890bb19ca5d5d38a77fb8da7b8e9eaaf06293323b23c7feb7082c076a"
 metafile = true
 
 [[files]]
@@ -841,7 +821,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "dfb6c4735efa3dacda748935cc498b9462bd5c6d21d349a1da5c8fd82208c7ae"
+hash = "9ec81d3625f9af38cf75a2988906498e185dcbb10b05a26b04093149649f486e"
 metafile = true
 
 [[files]]
@@ -856,7 +836,7 @@ metafile = true
 
 [[files]]
 file = "mods/overflowing-bars.pw.toml"
-hash = "f13aa7119247caf62b75e7b21aa38cea7fe5931f7cfa7d8aeda861bea646aa0c"
+hash = "738bd1d364dc4c9e016c08c784ed16c971627701eddc2e037e3a538f3b0b1b92"
 metafile = true
 
 [[files]]
@@ -931,7 +911,7 @@ metafile = true
 
 [[files]]
 file = "mods/resource-pack-overrides.pw.toml"
-hash = "c3b6836fe023b1b554b3b04cb456b627364722f93789e05674f532514a71adc8"
+hash = "4e8cb937546b285277947d125391187dd6028db99ce55d0a64f5e753911ffe5d"
 metafile = true
 
 [[files]]
@@ -956,7 +936,7 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
-hash = "94c5d47b41e62a7928d8c1b725e7e3434afe59c7bdb6dd19069db6e6069ebe02"
+hash = "17b8e8533a46c1aceee6165392a6e937b3507feb774f2b6dff9e3c9799bc05ea"
 metafile = true
 
 [[files]]
@@ -986,7 +966,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-discord-rich-presence.pw.toml"
-hash = "c254ac9be86db15c540102490cb871bd9c5ad06ea4dd70a2c41684eadeeec29b"
+hash = "2b1e2949577dd078fff0617e51acd9164d8f28874cf6b8526db07007c1a87f73"
 metafile = true
 
 [[files]]
@@ -996,7 +976,7 @@ metafile = true
 
 [[files]]
 file = "mods/skin-layers-3d.pw.toml"
-hash = "cee442f49af5e7dff8864457075e0bcc87837f2325eb5d2c0a3f9dc1777a4d6a"
+hash = "276bded4eb429e96c2e59eeb9a007d8bcbf6e62443f72f43125d22aa2778ec7c"
 metafile = true
 
 [[files]]
@@ -1081,7 +1061,7 @@ metafile = true
 
 [[files]]
 file = "mods/textrues-rubidium-options.pw.toml"
-hash = "b356d99b4c7b4b3362513d50126c95d5d8ef798035b08cb5881066b32f0b1018"
+hash = "a34ea2b0e9f3e37d5b23c8569be442cb1554ad08aef9dcf4400390da1eb86994"
 metafile = true
 
 [[files]]
@@ -1252,4 +1232,13 @@ metafile = true
 [[files]]
 file = "resourcepacks/stay-true.pw.toml"
 hash = "b0b16794b3e1fb2ee63b303998aad3fc19d78f7696bde46a53e8160fbeae8084"
+metafile = true
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r2.0.3.zip.txt"
+hash = "e44fdfd414aa2096d1b6e8d8b85d59f8e96ee37b027be3496e671584a4fb3d55"
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "6a705faebed801c38160197bea7420b755728f7dbd9ebeb6a7ac46b1b164f44a"
 metafile = true

@@ -1,6 +1,6 @@
 name = "Grass Overhaul (Sod)"
 filename = "Grass_Overhaul-Forge-23.05.28_MC1.19.2.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
