@@ -169,10 +169,6 @@ file = "defaultconfigs/ambientsounds-client.json"
 hash = "e01166365558a547ea9aae4812ce22275e4554ddd07b69c953c87438e461726e"
 
 [[files]]
-file = "defaultconfigs/byg/backups/last_working_configs_backup.zip"
-hash = "36bd16bc022ccb401de6d242b795163a47fdd5861668566b5037125a5e6dd6c6"
-
-[[files]]
 file = "defaultconfigs/byg/biomepedia.json5"
 hash = "8fc519a8e6ca95a62903924e378efe098b3deeab6013b0fc6c84df71ff6a6866"
 

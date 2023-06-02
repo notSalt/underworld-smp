@@ -1,3 +1,9 @@
 README.md
 .gitignore
 .gitattributes
+
+# Exclude exported CurseForge zip files
+*.zip
+
+# Exclude exported Modrinth modpacks
+*.mrpack
