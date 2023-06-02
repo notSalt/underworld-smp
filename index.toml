@@ -835,6 +835,11 @@ hash = "b1cee41a780aa8fbb9367dab6024a78c2b8e5a257ebed5d2754ff27f816d9cdd"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-crashes-forge.pw.toml"
+hash = "38c48f04de7d9228cdbdf5163007f78b4735800d3da3734ff6ea4b5193087843"
+metafile = true
+
+[[files]]
 file = "mods/oculus.pw.toml"
 hash = "dfb6c4735efa3dacda748935cc498b9462bd5c6d21d349a1da5c8fd82208c7ae"
 metafile = true
@@ -1246,10 +1251,10 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/mandalas-gui-dark-mode.pw.toml"
-hash = "1c7990b0ebd0136fa7cb4bbbb980ee3ca864102eb7e5a2999cfb7b7c0dbf6b7b"
+hash = "02cadbcea5e3064a15a4a6768dbbf3252137ec0102e592307a36dfe6a2992d1c"
 metafile = true
 
 [[files]]
 file = "resourcepacks/stay-true.pw.toml"
-hash = "f461c149788f81fdc37051fc67a8496478b685d96258c98e477f24e696294e78"
+hash = "b0b16794b3e1fb2ee63b303998aad3fc19d78f7696bde46a53e8160fbeae8084"
 metafile = true
