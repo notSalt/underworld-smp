@@ -1,0 +1,13 @@
+name = "Underworld SMP"
+author = "_notSalt"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "04a822a68fc609a05cb79e4ce8e1b5635fd3a2ece23a588b16bc26c98b3ace10"
+
+[versions]
+forge = "43.2.13"
+minecraft = "1.19.2"
