@@ -1,0 +1,13 @@
+name = "Enhanced Boss Bars"
+filename = "[1.2] Enhanced Boss Bars.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "bd1374f0f5146ce8303524978250b5a2f3824b0e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4507466
+project-id = 580036
