@@ -1376,11 +1376,6 @@ hash = "ca615db076e1af4d04f1230aa775a826c386e366198c55d5a67e827a29cd29fd"
 metafile = true
 
 [[files]]
-file = "resourcepacks/enhanced-boss-bars.pw.toml"
-hash = "7e23c3083f2c9cac239eb2d87e8f00ee167abaf4b67ec04c6e94b1480e616dd5"
-metafile = true
-
-[[files]]
 file = "resourcepacks/mandalas-gui-dark-mode.pw.toml"
 hash = "02cadbcea5e3064a15a4a6768dbbf3252137ec0102e592307a36dfe6a2992d1c"
 metafile = true
