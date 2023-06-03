@@ -2,7 +2,7 @@
   "schema_version": 1,
   "failed_reloads_per_session": 5,
   "default_packs": [
-    "file/MandalasGUI_Legacy+Modded_Dakmode_v4.2.zipccc",
+    "file/MandalasGUI_Legacy+Modded_Dakmode_v4.2.zip",
     "file/Stay_True_1.19.zip"
   ],
   "default_overrides": {
