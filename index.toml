@@ -157,16 +157,20 @@ file = "config/byg/trades.json5"
 hash = "bff7a92c558bf1a622b779736b63f4ed7ed90ecb94c1287a443b6d95c4a4491b"
 
 [[files]]
+file = "config/inventoryhud-client.toml"
+hash = "09aa6c945a9c8a4e981e5e6fcf68e228ef95d7201e004bdc367a25524d76fa08"
+
+[[files]]
+file = "config/resourcepackoverrides.json"
+hash = "6f650167eda8739a692c1a3b809161f740f37bd4a00acdd4cbefde05bfa4a599"
+
+[[files]]
 file = "config/starterkit.json5"
 hash = "20dbdd8d77faf4294b1feb7cdd29a03dea1a31e5439ba040f1ce4f3b769499fb"
 
 [[files]]
 file = "config/starterkit/starterkit.txt"
 hash = "5c227a5f3f2613f85047af56c0c6c1cde8540f723314ed323628d2c31467bc17"
-
-[[files]]
-file = "defaultconfigs/ambientsounds-client.json"
-hash = "e01166365558a547ea9aae4812ce22275e4554ddd07b69c953c87438e461726e"
 
 [[files]]
 file = "defaultconfigs/byg/biomepedia.json5"
@@ -825,7 +829,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "fc350d4751b9b9528ef85ec80a4b8353b8154ea475def2a7e84aadbead4b7118"
+hash = "aaa54bfef7a3f728e1a86a16d8c3d06a5bf04a0fb6d87cf56caa3f7c4590aaeb"
 metafile = true
 
 [[files]]
