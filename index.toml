@@ -162,7 +162,11 @@ hash = "09aa6c945a9c8a4e981e5e6fcf68e228ef95d7201e004bdc367a25524d76fa08"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "6f650167eda8739a692c1a3b809161f740f37bd4a00acdd4cbefde05bfa4a599"
+hash = "4c4614f904731a4faf3a4e65c41d7365c714be0c23d4d1c98c247389f8a7ed4f"
+
+[[files]]
+file = "config/rubidium_extras.toml"
+hash = "aed372c62e98b70d2e6bb8f2721fc346c962dbc2a5334842f15b2d7c819233a6"
 
 [[files]]
 file = "config/starterkit.json5"
@@ -348,11 +352,6 @@ hash = "945ceb14e94115ed5dcc77b0e7aed6340e034e4e07aa4ca2a542ac9d12827f5c"
 metafile = true
 
 [[files]]
-file = "mods/akashic-tome.pw.toml"
-hash = "1e2db94700eabc46e3562d5b9f4282afdc900513a1ac7d2a219823447c817aa9"
-metafile = true
-
-[[files]]
 file = "mods/alexs-delight.pw.toml"
 hash = "516e8eba75da9ad192bf8122c4edaf6bacd5fa90b4f89495e2d261d92851ba29"
 metafile = true
@@ -440,11 +439,6 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "22f47db1058d619e0ed6c6531eac43dd9b504addff8a2f1fc8ba2d4856a2feba"
-metafile = true
-
-[[files]]
-file = "mods/bartering-station.pw.toml"
-hash = "d77955719650904ff6c6ae1527ec9ac5294a4bb7b95fb0ec80fb947984bfe4b0"
 metafile = true
 
 [[files]]
@@ -898,6 +892,21 @@ hash = "58ecf8f9d6818c9c64c30decdd0126c2b3001539b56e001cf6120879863e8a05"
 metafile = true
 
 [[files]]
+file = "mods/fastfurnace.pw.toml"
+hash = "e001ea41a138e42e5523e69b13523c1ebf76a1633320b3a7942b4eef76d36861"
+metafile = true
+
+[[files]]
+file = "mods/fastsuite.pw.toml"
+hash = "d6c054a4f547e92831b8ef5fe4afea6432269a19fd1a60ba576865faff8a4638"
+metafile = true
+
+[[files]]
+file = "mods/fastworkbench.pw.toml"
+hash = "ab09ecf0f07ee64186802e309c196c27337ff092eac196fa5f9c80b5a287badf"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "0d6d8d7beaca1ae779f2e734db30da2595b98587f0714a6b15721664acf8f946"
 metafile = true
@@ -1308,6 +1317,11 @@ hash = "ec06f068a0b246f6ee370c3d500645930967b10bdea2194c425c9e2d6c59f8f4"
 metafile = true
 
 [[files]]
+file = "mods/placebo.pw.toml"
+hash = "9656604f85b22fe3c05f27a507ca7ec6f17b5745faea6382f865b2774c0bb909"
+metafile = true
+
+[[files]]
 file = "mods/pluto.pw.toml"
 hash = "4ccba84a626f957a1e5bbdcc93be31b6b9fc688061f6ba5aacfb43bc4465a562"
 metafile = true
@@ -1620,11 +1634,6 @@ metafile = true
 [[files]]
 file = "mods/villagersplus-forge.pw.toml"
 hash = "4bce4b6e738582744f5647badde4f878df61bcc95ed3f87761c1138832ceeaac"
-metafile = true
-
-[[files]]
-file = "mods/visual-workbench.pw.toml"
-hash = "de92543e67785a10dba40d50fc9deebb1990d19965e0b73b9cd63be55260e62d"
 metafile = true
 
 [[files]]
