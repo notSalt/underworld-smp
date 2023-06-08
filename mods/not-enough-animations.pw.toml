@@ -5,7 +5,8 @@ side = "client"
 [download]
 hash-format = "sha1"
 hash = "ac65e95342643b32f2c3e657e723f3c9b637c8fe"
-mode = "metadata:curseforge"
+mode = "url"
+url = "https://files.notsalt.com/notenoughanimations-forge-1.6.2-mc1.19.2.jar"
 
 [update]
 [update.curseforge]

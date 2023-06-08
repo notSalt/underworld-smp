@@ -5,7 +5,8 @@ side = "both"
 [download]
 hash-format = "sha1"
 hash = "ae50731f933366dc682bef8b54a637e099235c5b"
-mode = "metadata:curseforge"
+mode = "url"
+url = "https://files.notsalt.com/Structory_1.19.3_v1.3.1a.jar"
 
 [update]
 [update.curseforge]

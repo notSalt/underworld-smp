@@ -25,7 +25,7 @@
 	#Show/Hide armor
 	showArmor = true
 	#Show/Hide armor
-	showMain = false
+	showMain = true
 	#Show/Hide armor
 	showOff = true
 	#Show/Hide armor
@@ -36,7 +36,7 @@
 	#Allowed Values: PERCENTAGE, DAMAGE, DAMAGE_LEFT, OFF
 	armView = "OFF"
 	#Show item durability bar
-	armBars = false
+	armBars = true
 	#Move all items at once or each one
 	moveAll = true
 	#Show/Hide empty slot icon
@@ -72,13 +72,13 @@
 	invValign = "BOTTOM"
 	#Inventory HUD horizontal align
 	#Allowed Values: LEFT, MIDDLE, RIGHT
-	invHalign = "LEFT"
+	invHalign = "MIDDLE"
 	#Inventory HUD position (X)
 	#Range: -9999 ~ 9999
-	xPos = 4
+	xPos = 0
 	#Inventory HUD position (Y)
 	#Range: -9999 ~ 9999
-	yPos = 56
+	yPos = 150
 	#Armor HUD vertical align
 	#Allowed Values: TOP, CENTER, BOTTOM
 	armValign = "BOTTOM"

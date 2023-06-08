@@ -5,7 +5,8 @@ side = "client"
 [download]
 hash-format = "sha1"
 hash = "cfe0a277f6d536e03cfa3b07fee1c58dafe9fcef"
-mode = "metadata:curseforge"
+mode = "url"
+url = "https://files.notsalt.com/CullLessLeaves-Reforged-1.0.5.jar"
 
 [update]
 [update.curseforge]
