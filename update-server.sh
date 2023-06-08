@@ -1,6 +1,0 @@
-#!/bin/sh
-
-echo Pulling from latest git...
-git pull
-echo Installing server...
-java -jar packwiz-installer-bootstrap.jar -g -s server http://underworld.notsalt.com/pack.toml

@@ -1831,10 +1831,6 @@ hash = "ca615db076e1af4d04f1230aa775a826c386e366198c55d5a67e827a29cd29fd"
 metafile = true
 
 [[files]]
-file = "packwiz-installer-bootstrap.jar"
-hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
-
-[[files]]
 file = "resourcepacks/mandalas-gui-dark-mode.pw.toml"
 hash = "f99a714c8e4804adfd26a8d62ab20f85c4f8847c379c8006156ef143998ab1ee"
 metafile = true
@@ -1852,7 +1848,3 @@ hash = "e44fdfd414aa2096d1b6e8d8b85d59f8e96ee37b027be3496e671584a4fb3d55"
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "6a705faebed801c38160197bea7420b755728f7dbd9ebeb6a7ac46b1b164f44a"
 metafile = true
-
-[[files]]
-file = "update-server.sh"
-hash = "963dff826837a202099e3c464dee8c900f08e3cc9ce1b7fdfa9b7c8b3a2bfe81"

@@ -4,5 +4,6 @@
 # Exclude exported Modrinth modpacks
 *.mrpack
 
-# Exclude packwiz-installer
-packwiz-installer-bootstrap.jar
+# Exclude update-server scripts
+*.bat
+*.sh
