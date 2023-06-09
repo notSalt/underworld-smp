@@ -14,7 +14,7 @@ reducedDebugInfo:false
 showSubtitles:false
 directionalAudio:false
 touchscreen:false
-fullscreen:false
+fullscreen:true
 bobView:true
 toggleCrouch:false
 toggleSprint:false
@@ -25,7 +25,7 @@ fov:0.375
 screenEffectScale:1.0
 fovEffectScale:1.0
 darknessEffectScale:1.0
-gamma:0.5
+gamma:1.0
 renderDistance:12
 simulationDistance:12
 entityDistanceScaling:1.0
@@ -37,8 +37,8 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","mod_resources","Everycomp Generated Pack","Immersive Weathering Generated Pack","Snowyspirit Generated Pack","Supplementaries Generated Pack","V Slab Compat Generated Pack","defaultresources","dynamic_asset_generator:assets","quark:emote_resources","file/MandalasGUI_Legacy+Modded_Dakmode_v4.2.zip","file/Stay_True_1.19.zip"]
-incompatibleResourcePacks:["quark:emote_resources"]
+resourcePacks:["vanilla","mod_resources","Everycomp Generated Pack","Immersive Weathering Generated Pack","Snowyspirit Generated Pack","Supplementaries Generated Pack","V Slab Compat Generated Pack","defaultresources","dynamic_asset_generator:assets","quark:emote_resources","file/Stay_True_1.19.zip","file/MandalasGUI.zip"]
+incompatibleResourcePacks:["quark:emote_resources","file/MandalasGUI.zip"]
 lastServer:
 lang:en_us
 soundDevice:""
@@ -48,7 +48,7 @@ chatLineSpacing:0.0
 textBackgroundOpacity:0.5
 backgroundForChatOnly:true
 hideServerAddress:false
-advancedItemTooltips:false
+advancedItemTooltips:true
 pauseOnLostFocus:true
 overrideWidth:0
 overrideHeight:0

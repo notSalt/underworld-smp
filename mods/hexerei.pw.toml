@@ -1,0 +1,14 @@
+name = "Hexerei"
+filename = "hexerei-0.3.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "73b2b455207bd47d7ec822299262b8df78b31989"
+mode = "url"
+url = "https://files.notsalt.com/hexerei-0.3.2.2.jar"
+
+[update]
+[update.curseforge]
+file-id = 4558662
+project-id = 548599

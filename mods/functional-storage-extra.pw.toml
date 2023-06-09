@@ -1,0 +1,13 @@
+name = "Functional Storage Extra"
+filename = "Functional Storage Extra 1.19.2-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8cd95fda1b923c8a81742b313b601a4e56523d1f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4490119
+project-id = 714662

@@ -2,21 +2,15 @@
   "schema_version": 1,
   "failed_reloads_per_session": 5,
   "default_packs": [
-    "file/MandalasGUI_Legacy+Modded_Dakmode_v4.2.zip",
+    "file/MandalasGUI.zip",
+    "file/Created Storage Network 1.2.zip",
+    "file/Create Immersive Aircrafts Resource Pack 1.19.2.zip",
     "file/Stay_True_1.19.zip"
   ],
   "default_overrides": {
     "force_compatible": true
   },
   "pack_overrides": {
-    "required": [
-      "file/MandalasGUI_Legacy+Modded_Dakmode_v4.2.zip",
-      "file/Stay_True_1.19.zip"
-    ],
-    "$required": {
-      "force_compatible": true,
-      "required": true
-    },
     "hidden": [
       "Snowyspirit Generated Pack",
       "V Slab Compat Generated Pack",
@@ -28,6 +22,17 @@
       "Everycomp Generated Pack"
     ],
     "$hidden": {
+      "hidden": true
+    },
+    "default": [
+      "file/MandalasGUI.zip",
+      "file/Created Storage Network 1.2.zip",
+      "file/Create Immersive Aircrafts Resource Pack 1.19.2.zip",
+      "file/Stay_True_1.19.zip"
+    ],
+    "$default": {
+      "required": true,
+      "default_position": "TOP",
       "hidden": true
     }
   }

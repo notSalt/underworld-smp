@@ -1,0 +1,14 @@
+name = "Created Simple Storage Network"
+filename = "Created Storage Network 1.2.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "e6de434e9f4c5f1674357ceb1c894ee627bb91c6"
+mode = "url"
+url = "https://files.notsalt.com/Created%2BStorage%2BNetwork%2B1.2.zip"
+
+[update]
+[update.curseforge]
+file-id = 3582548
+project-id = 468836

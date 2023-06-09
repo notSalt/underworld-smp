@@ -3,15 +3,7 @@
 console.info('Hello, World! (You will see this line every time server resources reload)')
 
 ServerEvents.recipes(event => {
-	// Fix weird fucking poppy red dye crafting bug
-	event.remove({ output: 'minecraft:red_dye' })
-	event.shapeless(
-		Item.of('minecraft:red_dye', 1),
-		['minecraft:poppy']
-	)
-
-	// Add recipe for littleframes
-	
+	// empty body lmao
 })
 
 ServerEvents.tags('item', event => {
