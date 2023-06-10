@@ -10,7 +10,7 @@ hash = "8fc519a8e6ca95a62903924e378efe098b3deeab6013b0fc6c84df71ff6a6866"
 
 [[files]]
 file = "config/byg/client/biomepedia_inventory.json5"
-hash = "a5e9cbd9ce3331dfad0c79129d7a38fbc724806549da3087b866f784966f4c33"
+hash = "f996c156bd1de2c51f86e2282da18ef72b3fe7d84d5a4cd645b51cc2f5379527"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
@@ -69,6 +69,14 @@ file = "config/rubidium_extras.toml"
 hash = "dc2acfed1a5dceee176fcbb0d0c27d412e3863f940742431d6c92598894d1dfc"
 
 [[files]]
+file = "config/sereneseasons/fertility.toml"
+hash = "8a9d38ca6b3d5054984f03f4f97689c1d6bde5c2b84250095033d3122576fc2c"
+
+[[files]]
+file = "config/sereneseasons/seasons.toml"
+hash = "54e706d2a7662b4799182abd5963c1bfa9682df54142dd6861e7e69bb4de408d"
+
+[[files]]
 file = "config/starterkit.json5"
 hash = "20dbdd8d77faf4294b1feb7cdd29a03dea1a31e5439ba040f1ce4f3b769499fb"
 
@@ -89,12 +97,24 @@ file = "config/veinmining-server.toml"
 hash = "3690c020b5803ec40200af861f07b4308147901a8aaf2243bb53bbc2745861d2"
 
 [[files]]
+file = "config/waystones-common.toml"
+hash = "1c81fb886db2fe7f107f525d9b4e34c90334844b8dce0c7435587cc303e3f6eb"
+
+[[files]]
 file = "defaultconfigs/byg/biomepedia.json5"
 hash = "8fc519a8e6ca95a62903924e378efe098b3deeab6013b0fc6c84df71ff6a6866"
 
 [[files]]
 file = "defaultconfigs/fastsuite.cfg"
 hash = "5b6333b27e2ce53fced729df92b817046363f2e3ae3262681a6ddf3c492405b5"
+
+[[files]]
+file = "defaultconfigs/sereneseasons/fertility.toml"
+hash = "8a9d38ca6b3d5054984f03f4f97689c1d6bde5c2b84250095033d3122576fc2c"
+
+[[files]]
+file = "defaultconfigs/sereneseasons/seasons.toml"
+hash = "54e706d2a7662b4799182abd5963c1bfa9682df54142dd6861e7e69bb4de408d"
 
 [[files]]
 file = "defaultconfigs/starterkit.json5"
@@ -111,6 +131,10 @@ hash = "39cc04b28e0ebcf2911810af8ac0d7a37cfa5876b9d9a6710df79c8ed9dcd840"
 [[files]]
 file = "defaultconfigs/veinmining-server.toml"
 hash = "3690c020b5803ec40200af861f07b4308147901a8aaf2243bb53bbc2745861d2"
+
+[[files]]
+file = "defaultconfigs/waystones-common.toml"
+hash = "1c81fb886db2fe7f107f525d9b4e34c90334844b8dce0c7435587cc303e3f6eb"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/example_block.png"
@@ -291,11 +315,6 @@ hash = "7b81306e58664695856c98ee9c7c32eedb2a5e6b42649e7355e1b34fe4174d92"
 metafile = true
 
 [[files]]
-file = "mods/bettergolem.pw.toml"
-hash = "6e79b66321c8e23c23660a9c3f883d22ee685227dbf6267a6ea4da09ec95d7ac"
-metafile = true
-
-[[files]]
 file = "mods/biome-makeover-forge.pw.toml"
 hash = "e5cfefb5bb10dc348192ec64f44f96867bd5a358c0e8a04fd934f63270dc71f5"
 metafile = true
@@ -308,16 +327,6 @@ metafile = true
 [[files]]
 file = "mods/blueprint.pw.toml"
 hash = "c8631f3fd8be077cf68e2223c121a058e559531e13746e562d1acaa3ec04b4ed"
-metafile = true
-
-[[files]]
-file = "mods/boat-break-fix.pw.toml"
-hash = "1b495e9463fd78c77f525ba8a062a86c21b6ec13c8919b4e2f475e4bf2a3464c"
-metafile = true
-
-[[files]]
-file = "mods/boat-item-view-forge.pw.toml"
-hash = "dca60cff57d62abaaae5975e5ad2db058efe4e089cf1e13a711ad4715eea92ca"
 metafile = true
 
 [[files]]
@@ -368,11 +377,6 @@ metafile = true
 [[files]]
 file = "mods/chefs-delight-forge.pw.toml"
 hash = "a7c679325fb147b7d1f7670789486206923670e2286dff40a07887430ac7389b"
-metafile = true
-
-[[files]]
-file = "mods/cherished-worlds.pw.toml"
-hash = "31999cbfc7302230459404fe94937f419a96c5a90d3d3bdd62f737b191f8f93e"
 metafile = true
 
 [[files]]
@@ -453,11 +457,6 @@ metafile = true
 [[files]]
 file = "mods/cosmetic-armor-reworked.pw.toml"
 hash = "c98b92c96eb546872a0d203969ddba29a17f6ab0e57ff93081d81a138562e8b7"
-metafile = true
-
-[[files]]
-file = "mods/craftpresence.pw.toml"
-hash = "a9cb93bbd656d2fb32bc46bb21a85bf5c29d3bae52386376ab35736abd7a073c"
 metafile = true
 
 [[files]]
@@ -741,21 +740,6 @@ hash = "0d6d8d7beaca1ae779f2e734db30da2595b98587f0714a6b15721664acf8f946"
 metafile = true
 
 [[files]]
-file = "mods/friends-and-foes-beekeeper-hut-forge.pw.toml"
-hash = "8f98340cd5c90b915ef634edb1787e7e1fcd2476e2d5ea688042e2bd1f4e32db"
-metafile = true
-
-[[files]]
-file = "mods/friends-and-foes-forge.pw.toml"
-hash = "9a06ee6dbea720d73d77a31e98627f454d465f12710f8ae9f3e371ca4f2d84bf"
-metafile = true
-
-[[files]]
-file = "mods/frosted-friends.pw.toml"
-hash = "26c00a6b1e5280037214f1945499edef278356ca742858a1a7b6cec7175c0a36"
-metafile = true
-
-[[files]]
 file = "mods/functional-storage-extra.pw.toml"
 hash = "76a09b9bd695c2501d675f1293ea015711a416ff92050b06df3850c8a7aae3f2"
 metafile = true
@@ -863,11 +847,6 @@ metafile = true
 [[files]]
 file = "mods/it-takes-a-pillage.pw.toml"
 hash = "fdb8c310c88b0b525682fd2442e45f3cfc4bf007bab0900b185e7a3074cc30ef"
-metafile = true
-
-[[files]]
-file = "mods/item-highlighter.pw.toml"
-hash = "99c90605fa48bc0625ac232035a13e76f1e5afb590d201725c9a5f2cbe4bd350"
 metafile = true
 
 [[files]]
@@ -1171,11 +1150,6 @@ hash = "8bcdd904b01167fcd6245c6878338b5d4982d8b9ba1ea19aa6b2a44da8cf5ed5"
 metafile = true
 
 [[files]]
-file = "mods/pick-up-notifier.pw.toml"
-hash = "d4cf9c5b6270b90c917eaaf4be7c63f31348c453ed387c606a732c9b29b803dc"
-metafile = true
-
-[[files]]
 file = "mods/piglin-proliferation.pw.toml"
 hash = "ec06f068a0b246f6ee370c3d500645930967b10bdea2194c425c9e2d6c59f8f4"
 metafile = true
@@ -1198,11 +1172,6 @@ metafile = true
 [[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "c79097b737bb6fdafbec02ebf933427f30efd635747957266a0dd785328ed3cc"
-metafile = true
-
-[[files]]
-file = "mods/public-gui-announcement.pw.toml"
-hash = "a7c7d93231a48998a818e80ecfb441a2890c66aa5b8b15ed608726ed59122256"
 metafile = true
 
 [[files]]
@@ -1473,11 +1442,6 @@ metafile = true
 [[files]]
 file = "mods/too-many-glyphs.pw.toml"
 hash = "12e87b5da0047ade56635094c72f2ba5525e1b2f2638a0162994c84d92d2c8fd"
-metafile = true
-
-[[files]]
-file = "mods/trading-post.pw.toml"
-hash = "d601292a089e55d4aa7dc40473590c5217271967187c432b1848339228702671"
 metafile = true
 
 [[files]]

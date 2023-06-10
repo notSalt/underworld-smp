@@ -4,16 +4,16 @@
 	requireEffectiveTool = true
 	#The maximum number of blocks to mine without the enchantment
 	#Range: 0 ~ 1000
-	maxBlocksBase = 64
+	maxBlocksBase = 32
 	#The maximum distance from the source block without the enchantment
 	#Range: 0 ~ 1000
-	maxDistanceBase = 64
+	maxDistanceBase = 32
 	#The maximum number of blocks to mine per level of the enchantment
 	#Range: 1 ~ 1000
-	maxBlocksPerLevel = 64
+	maxBlocksPerLevel = 32
 	#The maximum distance from the source block per level of the enchantment
 	#Range: 1 ~ 100
-	maxDistancePerLevel = 64
+	maxDistancePerLevel = 32
 	#Whether or not to vein mine diagonally, note this may lead to hidden drops if relocateDrops is false
 	diagonalMining = true
 	#Whether or not to stop vein mining when the tool can no longer be used
