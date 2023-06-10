@@ -130,7 +130,7 @@ hash = "39cc04b28e0ebcf2911810af8ac0d7a37cfa5876b9d9a6710df79c8ed9dcd840"
 
 [[files]]
 file = "defaultconfigs/veinmining-server.toml"
-hash = "3690c020b5803ec40200af861f07b4308147901a8aaf2243bb53bbc2745861d2"
+hash = "612e8a66b0a2bf0f82107068efe978e3ebffdb1246a83c9a72558abbebf41878"
 
 [[files]]
 file = "defaultconfigs/waystones-common.toml"
@@ -737,6 +737,16 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "0d6d8d7beaca1ae779f2e734db30da2595b98587f0714a6b15721664acf8f946"
+metafile = true
+
+[[files]]
+file = "mods/friends-and-foes-beekeeper-hut-forge.pw.toml"
+hash = "8f98340cd5c90b915ef634edb1787e7e1fcd2476e2d5ea688042e2bd1f4e32db"
+metafile = true
+
+[[files]]
+file = "mods/friends-and-foes-forge.pw.toml"
+hash = "9a06ee6dbea720d73d77a31e98627f454d465f12710f8ae9f3e371ca4f2d84bf"
 metafile = true
 
 [[files]]
