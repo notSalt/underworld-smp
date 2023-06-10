@@ -297,6 +297,10 @@ file = "defaultconfigs/occultism-server.toml"
 hash = "1d7935cef4d9373a11533a1b34c86080a7a33f97559ead820e8e8a2d61e3108f"
 
 [[files]]
+file = "defaultconfigs/sereneseasons-server.toml"
+hash = "1768f541f7dbe96b41210f2eba23758323594ad79d5960731512c5079fd55123"
+
+[[files]]
 file = "defaultconfigs/skinnedlanterns-server.toml"
 hash = "1d967897a9d7668f16142533cd46eb34ca1e3f82ccd4101e51ae6a2399926771"
 
@@ -1493,6 +1497,11 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "b3ac5f2b0f0d42181e24ff1132ca6a9787fca8601ffa88012d9e2c750527cec1"
+metafile = true
+
+[[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "e2e2e14e86490dad80d8d6d8d16915070ae6669a12292629931205f6a929d4d4"
 metafile = true
 
 [[files]]
