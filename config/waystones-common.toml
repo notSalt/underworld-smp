@@ -13,7 +13,7 @@
 	maximumBaseXpCost = 0.0
 	#How much xp is needed per leashed animal to travel with you
 	#Range: > -2147483648
-	xpCostPerLeashed = 1
+	xpCostPerLeashed = 0
 	#The base xp level cost when travelling between dimensions. Ignores block distance.
 	#Range: > -2147483648
 	dimensionalWarpXpCost = 0

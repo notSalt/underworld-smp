@@ -173,6 +173,10 @@ file = "config/defaultoptions/servers.dat"
 hash = "96e8d722645d2b8c59a6fdb5dabea9570cf464f0ce49058df6abf37453f1dc7f"
 
 [[files]]
+file = "config/everycomp-wood_types.toml"
+hash = "3248eb8c97a7bc0d20524bfd7e7e707739acf247afae9803a8fe87e9302c91dc"
+
+[[files]]
 file = "config/fastsuite.cfg"
 hash = "5b6333b27e2ce53fced729df92b817046363f2e3ae3262681a6ddf3c492405b5"
 
@@ -214,7 +218,7 @@ hash = "22e1c6b47815e7664d557bf88918685806ccb051e4b007e2851e09782de9aa76"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "d617b8d6910e4c0d29da3c46182a9676b62bc5e8b1319377fdf8fce1ea72cc7d"
+hash = "c35b274b00cd51dc319493cd6b7b2af193175e0901764c096c8f829ad762a3eb"
 
 [[files]]
 file = "config/rubidium_extras.toml"
@@ -234,7 +238,7 @@ hash = "27f5b4ed68122e9821102ee05b32181aae2157f000fd9f8eb8f1f40e78dc75fa"
 
 [[files]]
 file = "config/veinmining-common.toml"
-hash = "39cc04b28e0ebcf2911810af8ac0d7a37cfa5876b9d9a6710df79c8ed9dcd840"
+hash = "3ff23e4f2dbec37297adf63b9bdd09ac2281fbf82697bf62dfa231fc3a75289e"
 
 [[files]]
 file = "config/veinmining-server.toml"
@@ -242,7 +246,7 @@ hash = "3690c020b5803ec40200af861f07b4308147901a8aaf2243bb53bbc2745861d2"
 
 [[files]]
 file = "config/waystones-common.toml"
-hash = "1c81fb886db2fe7f107f525d9b4e34c90334844b8dce0c7435587cc303e3f6eb"
+hash = "a1a68856c2cda0ef1c33425d81d92d2e4a1470dd0fd3542802fce0c118abcee6"
 
 [[files]]
 file = "defaultconfigs/camera-server.toml"
@@ -953,7 +957,7 @@ metafile = true
 
 [[files]]
 file = "mods/flickerfix.pw.toml"
-hash = "07dea3aea9856bfcdbd53d18a6ef44b4a8c41893e934e7d72777d859b5e05280"
+hash = "f5dd8e9f8304cdba8f68da277dbc4da269860fde162149db8d708f44f5a3d6ae"
 metafile = true
 
 [[files]]
@@ -1843,12 +1847,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/create-immersive-aircrafts-resource-pack.pw.toml"
-hash = "48c094dce096f858fc1a711bb64f0f738c509fb5b6faa8c69e9c91140db2d86c"
+hash = "7586c26bd941d88dd1c4bd76c775cbf096cb4de608b4aa4dbdd12ef9c94db47a"
 metafile = true
 
 [[files]]
 file = "resourcepacks/create-simple-storage.pw.toml"
-hash = "796333ea74eb8be03512ed8c7479336b6abf3b166ad3939fd4b50a7e9c18b25a"
+hash = "6eed054700639522f593199f4d6256d2ef3d09bf6d5e35b43ad5c7bb0cd499f7"
 metafile = true
 
 [[files]]

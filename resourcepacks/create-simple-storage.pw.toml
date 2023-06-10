@@ -1,14 +1,14 @@
 name = "Tom's Create Storage"
-filename = "Create+Simple+Storage+Solid+GUI 1.1.zip"
-side = "client"
+filename = "Create_Simple_Storage_2.1.zip"
+side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "54758db47d54d544908d136942d63f7e37bb8935"
+hash = "9aeba68908b086b8eb74a731b0c4b34795799b88"
 mode = "url"
-url = "https://files.notsalt.com/Create%2BSimple%2BStorage%2BSolid%2BGUI%2B1.1.zip"
+url = "https://files.notsalt.com/Create_Simple_Storage_2.1.zip"
 
 [update]
 [update.curseforge]
-file-id = 4559989
+file-id = 4559986
 project-id = 776419
