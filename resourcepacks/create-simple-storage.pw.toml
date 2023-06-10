@@ -6,7 +6,7 @@ side = "client"
 hash-format = "sha1"
 hash = "54758db47d54d544908d136942d63f7e37bb8935"
 mode = "url"
-url = "https://files.notsalt.com/Created%2BStorage%2BNetwork%2B1.2.zip"
+url = "https://files.notsalt.com/Create%2BSimple%2BStorage%2BSolid%2BGUI%2B1.1.zip"
 
 [update]
 [update.curseforge]
