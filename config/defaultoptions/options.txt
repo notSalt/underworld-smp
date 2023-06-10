@@ -37,8 +37,8 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","mod_resources","Everycomp Generated Pack","Immersive Weathering Generated Pack","Snowyspirit Generated Pack","Supplementaries Generated Pack","V Slab Compat Generated Pack","defaultresources","dynamic_asset_generator:assets","quark:emote_resources","file/Stay_True_1.19.zip","file/MandalasGUI.zip"]
-incompatibleResourcePacks:["quark:emote_resources","file/MandalasGUI.zip"]
+resourcePacks:["vanilla","mod_resources","Everycomp Generated Pack","Immersive Weathering Generated Pack","Snowyspirit Generated Pack","Supplementaries Generated Pack","V Slab Compat Generated Pack","defaultresources","dynamic_asset_generator:assets","quark:emote_resources","file/Stay_True_1.19.zip","file/MandalasGUI.zip","file/Created Storage Network 1.2.zip","file/Create Immersive Aircrafts Resource Pack 1.19.2.zip"]
+incompatibleResourcePacks:["quark:emote_resources","file/MandalasGUI.zip","file/Created Storage Network 1.2.zip"]
 lastServer:
 lang:en_us
 soundDevice:""
@@ -78,9 +78,9 @@ allowServerListing:true
 chatPreview:1
 onlyShowSecureChat:false
 soundCategory_master:0.7557947
-soundCategory_music:0.10915493
+soundCategory_music:0.05399061
 soundCategory_record:1.0
-soundCategory_weather:1.0
+soundCategory_weather:0.75117373
 soundCategory_block:1.0
 soundCategory_hostile:1.0
 soundCategory_neutral:1.0
