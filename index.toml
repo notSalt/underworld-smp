@@ -872,6 +872,11 @@ hash = "b556a983326c3f4171df593cf6d308091468f77dafb7a319285d3a3154aac82c"
 metafile = true
 
 [[files]]
+file = "mods/every-compat.pw.toml"
+hash = "127dae4d350f24297cb30024520ca7f9379344f9112bfffb1d98d0dd6779326f"
+metafile = true
+
+[[files]]
 file = "mods/excavated-variants.pw.toml"
 hash = "ba70f597e6ed7a809456259024914658a7dea3feddb5a05ddc10d8862ea4ab40"
 metafile = true
