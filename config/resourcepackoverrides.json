@@ -3,7 +3,7 @@
   "failed_reloads_per_session": 5,
   "default_packs": [
     "file/MandalasGUI.zip",
-    "file/Created Storage Network 1.2.zip",
+    "file/Create+Simple+Storage+Solid+GUI 1.1.zip",
     "file/Create Immersive Aircrafts Resource Pack 1.19.2.zip",
     "file/Stay_True_1.19.zip"
   ],
@@ -26,7 +26,7 @@
     },
     "default": [
       "file/MandalasGUI.zip",
-      "file/Created Storage Network 1.2.zip",
+      "file/Create+Simple+Storage+Solid+GUI 1.1.zip",
       "file/Create Immersive Aircrafts Resource Pack 1.19.2.zip",
       "file/Stay_True_1.19.zip"
     ],

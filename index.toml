@@ -214,7 +214,7 @@ hash = "22e1c6b47815e7664d557bf88918685806ccb051e4b007e2851e09782de9aa76"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "de414c3c5dfd54bd064e8dfffba6b6b66c7042dd32ceec4df8c55fb823b38784"
+hash = "d617b8d6910e4c0d29da3c46182a9676b62bc5e8b1319377fdf8fce1ea72cc7d"
 
 [[files]]
 file = "config/rubidium_extras.toml"
@@ -1843,12 +1843,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/create-simple-storage.pw.toml"
-hash = "345e984c0e019355bb867d74887e64bd5e06d36d59fc1dcead2a2c2e281931fc"
-metafile = true
-
-[[files]]
-file = "resourcepacks/created-storage-network.pw.toml"
-hash = "304a749e196e9af85bfd1163e0d4b5a2c654d920a96e756adf9784313d3c270d"
+hash = "c75ccb4f268a60cf62e5426a1cbabc693755f06b578574467137226ae3e756c9"
 metafile = true
 
 [[files]]
