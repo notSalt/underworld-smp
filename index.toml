@@ -1322,11 +1322,6 @@ hash = "f21458c889339ab7d1fa5746d70fa7ba2dbf22f5c6eba8380b03c70a466f3b8c"
 metafile = true
 
 [[files]]
-file = "mods/not-enough-crashes-forge.pw.toml"
-hash = "38c48f04de7d9228cdbdf5163007f78b4735800d3da3734ff6ea4b5193087843"
-metafile = true
-
-[[files]]
 file = "mods/ob-aquamirae.pw.toml"
 hash = "9ea1de2b9464ba4142ade3df02cad432c085e26b2d8242875c9d970c43b9be07"
 metafile = true
