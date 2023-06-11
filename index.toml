@@ -1350,11 +1350,6 @@ hash = "ebe4f9026b88b5e526c15cfb5a00f78b3c7538970df343803fbcdf36ede37534"
 metafile = true
 
 [[files]]
-file = "mods/no-see-no-tick.pw.toml"
-hash = "62eca44dd23575ac7cb128d1c9afb6fcb2a74b75aa2049ef92de2e44523504ef"
-metafile = true
-
-[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "f21458c889339ab7d1fa5746d70fa7ba2dbf22f5c6eba8380b03c70a466f3b8c"
 metafile = true
