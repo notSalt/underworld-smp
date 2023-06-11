@@ -29,7 +29,7 @@ let MarketBlackList = [
 ]
 
 ForgeEvents.onEvent('net.blay09.mods.farmingforblockheads.api.MarketRegistryReloadEvent$Post', event => {
-  let market = JsonIO.read('kubejs/server_scripts/mods/farmingforblockheads/marketitems.json')
+  let market = JsonIO.read('kubejs/server_scripts/mods/farmingForBlockheads/marketitems.json')
   let category = {
     saplings: FFBAPI.getMarketCategorySaplings(),
     seeds: FFBAPI.getMarketCategorySeeds(),
