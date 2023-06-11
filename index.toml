@@ -1386,7 +1386,7 @@ metafile = true
 
 [[files]]
 file = "mods/overflowing-bars.pw.toml"
-hash = "f13aa7119247caf62b75e7b21aa38cea7fe5931f7cfa7d8aeda861bea646aa0c"
+hash = "738bd1d364dc4c9e016c08c784ed16c971627701eddc2e037e3a538f3b0b1b92"
 metafile = true
 
 [[files]]
