@@ -1,0 +1,424 @@
+{
+	"saplings": {
+		"minecraft": [
+			"minecraft:flowering_azalea",
+			"minecraft:jungle_sapling",
+			"minecraft:dark_oak_sapling",
+			"minecraft:azalea",
+			"minecraft:spruce_sapling",
+			"minecraft:birch_sapling",
+			"minecraft:acacia_sapling",
+			"minecraft:mangrove_propagule",
+			"minecraft:oak_sapling"
+		],
+		"byg": [
+			"byg:ether_sapling",
+			"byg:palm_sapling",
+			"byg:jacaranda_sapling",
+			"byg:nightshade_sapling",
+			"byg:witch_hazel_sapling",
+			"byg:skyris_sapling",
+			"byg:red_birch_sapling",
+			"byg:yellow_birch_sapling",
+			"byg:cika_sapling",
+			"byg:cypress_sapling",
+			"byg:orange_oak_sapling",
+			"byg:joshua_sapling",
+			"byg:red_maple_sapling",
+			"byg:orange_spruce_sapling",
+			"byg:withering_oak_sapling",
+			"byg:rainbow_eucalyptus_sapling",
+			"byg:silver_maple_sapling",
+			"byg:araucaria_sapling",
+			"byg:red_spruce_sapling",
+			"byg:red_oak_sapling",
+			"byg:brown_zelkova_sapling",
+			"byg:holly_sapling",
+			"byg:mahogany_sapling",
+			"byg:zelkova_sapling",
+			"byg:lament_sapling",
+			"byg:pink_cherry_sapling",
+			"byg:aspen_sapling",
+			"byg:ebony_sapling",
+			"byg:redwood_sapling",
+			"byg:blue_spruce_sapling",
+			"byg:brown_birch_sapling",
+			"byg:white_cherry_sapling",
+			"byg:pine_sapling",
+			"byg:white_mangrove_sapling",
+			"byg:willow_sapling",
+			"byg:baobab_sapling",
+			"byg:brown_oak_sapling",
+			"byg:fir_sapling",
+			"byg:orchard_sapling",
+			"byg:indigo_jacaranda_sapling",
+			"byg:maple_sapling",
+			"byg:orange_birch_sapling",
+			"byg:palo_verde_sapling",
+			"byg:blue_enchanted_sapling",
+			"byg:yellow_spruce_sapling",
+			"byg:green_enchanted_sapling"
+		],
+		"twilightforest": [
+			"twilightforest:time_sapling",
+			"twilightforest:twilight_oak_sapling",
+			"twilightforest:hollow_oak_sapling",
+			"twilightforest:rainbow_oak_sapling",
+			"twilightforest:transformation_sapling",
+			"twilightforest:sorting_sapling",
+			"twilightforest:mining_sapling",
+			"twilightforest:darkwood_sapling",
+			"twilightforest:mangrove_sapling",
+			"twilightforest:canopy_sapling"
+		],
+		"atmospheric": [
+			"atmospheric:morado_sapling",
+			"atmospheric:kousa_sapling",
+			"atmospheric:yucca_sapling",
+			"atmospheric:grimwood_sapling",
+			"atmospheric:rosewood_sapling",
+			"atmospheric:aspen_sapling"
+		],
+		"quark": [
+			"quark:lavender_blossom_sapling",
+			"quark:ancient_sapling",
+			"quark:orange_blossom_sapling",
+			"quark:red_blossom_sapling",
+			"quark:yellow_blossom_sapling",
+			"quark:pink_blossom_sapling",
+			"quark:blue_blossom_sapling"
+		],
+		"environmental": [
+			"environmental:blue_wisteria_sapling",
+			"environmental:willow_sapling",
+			"environmental:white_wisteria_sapling",
+			"environmental:purple_wisteria_sapling",
+			"environmental:cherry_sapling",
+			"environmental:pink_wisteria_sapling"
+		],
+		"blue_skies": [
+			"blue_skies:starlit_sapling",
+			"blue_skies:bluebright_sapling",
+			"blue_skies:cherry_sapling",
+			"blue_skies:maple_sapling",
+			"blue_skies:crescent_fruit_sapling",
+			"blue_skies:dusk_sapling",
+			"blue_skies:frostbright_sapling",
+			"blue_skies:lunar_sapling"
+		],
+		"phantasm": [
+			"phantasm:pream_sapling"
+		],
+		"hexerei": [
+			"hexerei:willow_sapling",
+			"hexerei:mahogany_sapling",
+			"hexerei:witch_hazel_sapling"
+		],
+		"ars_nouveau": [
+			"ars_nouveau:red_archwood_sapling",
+			"ars_nouveau:green_archwood_sapling",
+			"ars_nouveau:blue_archwood_sapling",
+			"ars_nouveau:purple_archwood_sapling"
+		],
+		"abundant_atmosphere": [
+			"abundant_atmosphere:gourdrot_sapling",
+			"abundant_atmosphere:ash_sapling"
+		],
+		"windswept": [
+			"windswept:chestnut_sapling",
+			"windswept:holly_sapling"
+		],
+		"biomemakeover": [
+			"biomemakeover:swamp_cypress_sapling",
+			"biomemakeover:ancient_oak_sapling",
+			"biomemakeover:blighted_balsa_sapling",
+			"biomemakeover:willow_sapling"
+		],
+		"ecologics": [
+			"ecologics:walnut_sapling",
+			"ecologics:coconut_seedling",
+			"ecologics:azalea_flower"
+		],
+		"occultism": [
+			"occultism:otherworld_sapling",
+			"occultism:otherworld_sapling_natural"
+		],
+		"upgrade_aquatic": [
+			"upgrade_aquatic:river_sapling"
+		],
+		"ars_elemental": [
+			"ars_elemental:yellow_archwood_sapling"
+		],
+		"goodending": [
+			"goodending:cypress_sapling"
+		]
+	},
+	"seeds": {
+		"minecraft": [
+			"minecraft:pumpkin_seeds",
+			"minecraft:melon_seeds",
+			"minecraft:beetroot_seeds",
+			"minecraft:wheat_seeds"
+		],
+		"windswept": [
+			"windswept:wild_berry_pips"
+		],
+		"farmersdelight": [
+			"farmersdelight:tomato_seeds",
+			"farmersdelight:cabbage_seeds",
+			"farmersdelight:rice"
+		],
+		"blue_skies": [
+			"blue_skies:pine_fruit_seeds",
+			"blue_skies:winter_leaf_seeds",
+			"blue_skies:fiery_bean_seeds",
+			"blue_skies:scalefruit_seeds"
+		],
+		"delightful": [
+			"delightful:salmonberry_pips"
+		],
+		"farmersrespite": [
+			"farmersrespite:tea_seeds"
+		],
+		"snowyspirit": [
+			"snowyspirit:ginger_flower"
+		],
+		"supplementaries": [
+			"supplementaries:flax_seeds"
+		],
+		"occultism": [
+			"occultism:datura_seeds"
+		],
+		"ars_nouveau": [
+			"ars_nouveau:magebloom_crop"
+		],
+		"neapolitan": [
+			"neapolitan:strawberry_pips"
+		],
+		"hexerei": [
+			"hexerei:sage_seed"
+		]
+	},
+	"flowers": {
+		"byg": [
+			"byg:purple_tulip",
+			"byg:tall_allium",
+			"byg:flowering_jacaranda_leaves",
+			"byg:green_tulip",
+			"byg:yellow_daffodil",
+			"byg:yellow_tulip",
+			"byg:blue_sage",
+			"byg:lollipop_flower",
+			"byg:bistort",
+			"byg:magenta_tulip",
+			"byg:begonia",
+			"byg:orange_daisy",
+			"byg:purple_sage",
+			"byg:prairie_grass",
+			"byg:alpine_bellflower",
+			"byg:hydrangea_hedge",
+			"byg:foxglove",
+			"byg:pink_allium_flower_bush",
+			"byg:angelica",
+			"byg:firecracker_flower_bush",
+			"byg:lazarus_bellflower",
+			"byg:osiria_rose",
+			"byg:flowering_orchard_leaves",
+			"byg:flowering_indigo_jacaranda_leaves",
+			"byg:pink_daffodil",
+			"byg:flowering_nightshade_leaves",
+			"byg:winter_cyclamen",
+			"byg:winter_scilla",
+			"byg:pink_allium",
+			"byg:allium_flower_bush",
+			"byg:white_anemone",
+			"byg:crocus",
+			"byg:cyan_tulip",
+			"byg:pink_anemone",
+			"byg:violet_leather_flower",
+			"byg:orange_amaranth",
+			"byg:hydrangea_bush",
+			"byg:delphinium",
+			"byg:torch_ginger",
+			"byg:fairy_slipper",
+			"byg:rose",
+			"byg:snowdrops",
+			"byg:tall_pink_allium",
+			"byg:golden_spined_cactus",
+			"byg:guzmania",
+			"byg:incan_lily",
+			"byg:magenta_amaranth",
+			"byg:peach_leather_flower",
+			"byg:thereal_bellflower",
+			"byg:cyan_rose",
+			"byg:flowering_indigo_jacaranda_bush",
+			"byg:kovan_flower",
+			"byg:flowering_jacaranda_bush",
+			"byg:black_rose",
+			"byg:flowering_palo_verde_leaves",
+			"byg:california_poppy",
+			"byg:daffodil",
+			"byg:protea_flower",
+			"byg:japanese_orchid",
+			"byg:purple_amaranth",
+			"byg:amaranth",
+			"byg:winter_rose",
+			"byg:iris",
+			"byg:white_sage",
+			"byg:silver_vase_flower",
+			"byg:blue_rose_bush",
+			"byg:richea",
+			"byg:cyan_amaranth"
+		],
+		"environmental": [
+			"environmental:white_lotus_flower",
+			"environmental:magenta_hibiscus",
+			"environmental:pink_delphinium",
+			"environmental:red_hibiscus",
+			"environmental:purple_hibiscus",
+			"environmental:bluebell",
+			"environmental:bird_of_paradise",
+			"environmental:yellow_hibiscus",
+			"environmental:white_delphinium",
+			"environmental:orange_hibiscus",
+			"environmental:dianthus",
+			"environmental:violet",
+			"environmental:blue_delphinium",
+			"environmental:red_lotus_flower",
+			"environmental:pink_hibiscus",
+			"environmental:purple_delphinium",
+			"environmental:cartwheel"
+		],
+		"minecraft": [
+			"minecraft:flowering_azalea",
+			"minecraft:peony",
+			"minecraft:allium",
+			"minecraft:lilac",
+			"minecraft:sunflower",
+			"minecraft:pink_tulip",
+			"minecraft:poppy",
+			"minecraft:wither_rose",
+			"minecraft:oxeye_daisy",
+			"minecraft:rose_bush",
+			"minecraft:blue_orchid",
+			"minecraft:mangrove_propagule",
+			"minecraft:dandelion",
+			"minecraft:orange_tulip",
+			"minecraft:azure_bluet",
+			"minecraft:flowering_azalea_leaves",
+			"minecraft:lily_of_the_valley",
+			"minecraft:white_tulip",
+			"minecraft:red_tulip",
+			"minecraft:cornflower"
+		],
+		"windswept": [
+			"windswept:white_rose_bush",
+			"windswept:red_rose_bush",
+			"windswept:bluebells",
+			"windswept:pink_rose_bush",
+			"windswept:yellow_rose_bush",
+			"windswept:blue_rose",
+			"windswept:pink_rose",
+			"windswept:wither_rose_bush",
+			"windswept:foxglove",
+			"windswept:yellow_rose",
+			"windswept:red_rose",
+			"windswept:blue_rose_bush",
+			"windswept:white_rose",
+			"windswept:nightshade"
+		],
+		"atmospheric": [
+			"atmospheric:tall_yucca_flower",
+			"atmospheric:hot_monkey_brush",
+			"atmospheric:gilia",
+			"atmospheric:scalding_monkey_brush",
+			"atmospheric:warm_monkey_brush",
+			"atmospheric:water_hyacinth",
+			"atmospheric:yucca_flower",
+			"atmospheric:flowering_morado_leaves",
+			"atmospheric:yellow_blossoms"
+		],
+		"blue_skies": [
+			"blue_skies:nightcress",
+			"blue_skies:brittlebush",
+			"blue_skies:snowbloom",
+			"blue_skies:midday_bayhop",
+			"blue_skies:polar_posy",
+			"blue_skies:crystal_flower",
+			"blue_skies:blush_blossom",
+			"blue_skies:lucentroot",
+			"blue_skies:chillweed",
+			"blue_skies:frose",
+			"blue_skies:muckweed",
+			"blue_skies:camellia",
+			"blue_skies:briskbloom",
+			"blue_skies:moonlit_bloom",
+			"blue_skies:flare_floret",
+			"blue_skies:blaze_bud"
+		],
+		"immersive_weathering": [
+			"immersive_weathering:flower_crown",
+			"immersive_weathering:azalea_flowers",
+			"immersive_weathering:flowering_azalea_leaf_pile",
+			"immersive_weathering:azalea_flower_pile"
+		],
+		"upgrade_aquatic": [
+			"upgrade_aquatic:white_searocket",
+			"upgrade_aquatic:pink_searocket",
+			"upgrade_aquatic:flowering_rush"
+		],
+		"goodending": [
+			"goodending:twilight_wildflowers",
+			"goodending:spicy_wildflowers",
+			"goodending:balmy_wildflowers",
+			"goodending:pastel_wildflowers",
+			"goodending:pollenflake"
+		],
+		"biomemakeover": [
+			"biomemakeover:marigold",
+			"biomemakeover:swamp_azalea"
+		],
+		"farmersdelight": [
+			"farmersdelight:wild_potatoes",
+			"farmersdelight:wild_tomatoes",
+			"farmersdelight:wild_carrots",
+			"farmersdelight:wild_cabbages",
+			"farmersdelight:wild_rice",
+			"farmersdelight:wild_beetroots",
+			"farmersdelight:wild_onions"
+		],
+		"buzzier_bees": [
+			"buzzier_bees:buttercup",
+			"buzzier_bees:white_clover",
+			"buzzier_bees:pink_clover"
+		],
+		"nethersdelight": [
+			"nethersdelight:mimicarnation"
+		],
+		"earthmobsmod": [
+			"earthmobsmod:buttercup",
+			"earthmobsmod:pink_daisy"
+		],
+		"alexsmobs": [
+			"alexsmobs:acacia_blossom"
+		],
+		"unusualend": [
+			"unusualend:flowering_purpur_grass"
+		],
+		"supplementaries": [
+			"supplementaries:wild_flax"
+		],
+		"delightful": [
+			"delightful:wild_salmonberries"
+		],
+		"ecologics": [
+			"ecologics:azalea_flower"
+		],
+		"twigs": [
+			"twigs:azalea_flowers"
+		],
+		"woodworks": [
+			"woodworks:flowering_azalea_leaf_pile"
+		]
+	}
+}

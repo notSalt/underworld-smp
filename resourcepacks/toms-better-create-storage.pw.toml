@@ -1,0 +1,13 @@
+name = "Tom's Better Create Storage"
+filename = "Tom_Better_Create_Storage_1.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b1368a140bb84e17af3014007449ae41ab4ef319"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4491832
+project-id = 846587
