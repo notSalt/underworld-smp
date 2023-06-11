@@ -365,6 +365,10 @@ file = "kubejs/config/common.properties"
 hash = "88524d5d18411db7c57ef1b09cdd9b6258dbb5521ef53888fa8a4be312bc58db"
 
 [[files]]
+file = "kubejs/server_scripts/conflicts.js"
+hash = "54be3960b1b84811a883817838f7cd6c9b50910d40394773066488babdad0530"
+
+[[files]]
 file = "kubejs/server_scripts/mods/farmersDelight/create_compat.js"
 hash = "9b96200c94de8bd3901f5c08bdcdd98e865c567d1fa597900a12ba65f95bfccf"
 
@@ -1346,6 +1350,11 @@ hash = "ebe4f9026b88b5e526c15cfb5a00f78b3c7538970df343803fbcdf36ede37534"
 metafile = true
 
 [[files]]
+file = "mods/no-see-no-tick.pw.toml"
+hash = "62eca44dd23575ac7cb128d1c9afb6fcb2a74b75aa2049ef92de2e44523504ef"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "f21458c889339ab7d1fa5746d70fa7ba2dbf22f5c6eba8380b03c70a466f3b8c"
 metafile = true
@@ -1633,6 +1642,11 @@ metafile = true
 [[files]]
 file = "mods/structory.pw.toml"
 hash = "2240922e5d6d515bfe99f8eda8fff13f40cc4a859fb7425332cfa552cdabf46a"
+metafile = true
+
+[[files]]
+file = "mods/structure-compass.pw.toml"
+hash = "d414c651b19243b1140f6b8633469952f158dfa7183bf83670c68112770a047f"
 metafile = true
 
 [[files]]
