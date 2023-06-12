@@ -250,7 +250,7 @@ hash = "3ff23e4f2dbec37297adf63b9bdd09ac2281fbf82697bf62dfa231fc3a75289e"
 
 [[files]]
 file = "config/veinmining-server.toml"
-hash = "3690c020b5803ec40200af861f07b4308147901a8aaf2243bb53bbc2745861d2"
+hash = "612e8a66b0a2bf0f82107068efe978e3ebffdb1246a83c9a72558abbebf41878"
 
 [[files]]
 file = "config/waystones-common.toml"
@@ -366,7 +366,7 @@ hash = "88524d5d18411db7c57ef1b09cdd9b6258dbb5521ef53888fa8a4be312bc58db"
 
 [[files]]
 file = "kubejs/server_scripts/conflicts.js"
-hash = "54be3960b1b84811a883817838f7cd6c9b50910d40394773066488babdad0530"
+hash = "e2318dcacc9c91884cab28b1deb01e36c5eae514d5c6cc8c58686443d811066a"
 
 [[files]]
 file = "kubejs/server_scripts/mods/farmersDelight/create_compat.js"
@@ -1566,7 +1566,7 @@ metafile = true
 
 [[files]]
 file = "mods/snow-real-magic.pw.toml"
-hash = "8d9e0c931df4296d7498c4e09c2905a50e49deb0794fa64c008ae0184db29073"
+hash = "75486de1f5a8b128a4bbabb4cadb32e46369f1f8250ad625eeaae479a3f572d9"
 metafile = true
 
 [[files]]
