@@ -265,10 +265,6 @@ file = "defaultconfigs/chiselsandbits-server.toml"
 hash = "5b4928fa641c55722b3c44addadb675480fc0c5f71ef3064827bd366b53eb594"
 
 [[files]]
-file = "defaultconfigs/corpse-server.toml"
-hash = "09b9e4c7add97afd272feb9f7595228fca449d99d0996589da1b29c31c79d96a"
-
-[[files]]
 file = "defaultconfigs/create-server.toml"
 hash = "4939a51f9745862c251a03eb00ba98813f88706444e8958ec5cfb48b16064796"
 
@@ -282,11 +278,7 @@ hash = "59e10ba9cb8d08447394ccf89f89c26dec622bda3e149c88b07aee1366d365ab"
 
 [[files]]
 file = "defaultconfigs/curios-server.toml"
-hash = "919c0b6d0078f4210eeccbfe0e8abea1bef0a253abd37c114424fb6968d10542"
-
-[[files]]
-file = "defaultconfigs/elevatorid-server.toml"
-hash = "4d531cae3ff5cc47d5e8d8217c7b52d61717f72c2f6de802bc3eab550a3af266"
+hash = "fccdbdf9787896a787cc7f516da3b3d13eff38889ec27dc8da2ebb23328b751d"
 
 [[files]]
 file = "defaultconfigs/forge-server.toml"
