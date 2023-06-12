@@ -174,7 +174,7 @@ hash = "96e8d722645d2b8c59a6fdb5dabea9570cf464f0ce49058df6abf37453f1dc7f"
 
 [[files]]
 file = "config/everycomp-wood_types.toml"
-hash = "3248eb8c97a7bc0d20524bfd7e7e707739acf247afae9803a8fe87e9302c91dc"
+hash = "f7e10836a54dbf640e343c8280d54b0cf8a9a40f8f498557576f3b18f17fb643"
 
 [[files]]
 file = "config/fastsuite.cfg"

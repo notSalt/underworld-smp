@@ -1,12 +1,12 @@
 name = "Underworld SMP"
 author = "_notSalt"
-version = "1.2.7"
+version = "1.2.8"
 pack-format = "packwiz:1.1.1"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d031ad5940d8417fb0a0867ffd951d00f33d8d8a8a84f03af98966c8c437ac08"
+hash = "b65c687cf04854e027cef3868dbd3ac55354d2a674e39fa77769eb0c786f0e2a"
 
 [versions]
 forge = "43.2.13"
