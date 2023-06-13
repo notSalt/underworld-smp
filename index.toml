@@ -217,6 +217,10 @@ file = "config/jei/recipe-category-sort-order.ini"
 hash = "22e1c6b47815e7664d557bf88918685806ccb051e4b007e2851e09782de9aa76"
 
 [[files]]
+file = "config/quark-common.toml"
+hash = "c1fb634a47464c19c9b8edc1e51afa175bd580fb092e4d6d0deabde8dea24ed7"
+
+[[files]]
 file = "config/resourcepackoverrides.json"
 hash = "bee8ac2d1efe9df545bed712d589b0d7046d7ea42086be06f48cecb6b28400e0"
 
@@ -892,11 +896,6 @@ hash = "be7e571d96df4be059d97ac435ac4fe4c180ca5d084b62e2e25343faae4ec238"
 metafile = true
 
 [[files]]
-file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "aaa54bfef7a3f728e1a86a16d8c3d06a5bf04a0fb6d87cf56caa3f7c4590aaeb"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "f0393869bfcd3bdc37b819c11f20ba296d6587ee3613b078349f70052eed12e1"
 metafile = true
@@ -1059,11 +1058,6 @@ metafile = true
 [[files]]
 file = "mods/hexerei.pw.toml"
 hash = "c8687a47574e9e6a1592defcf0cbe4dba12ae0d1b05b038cdaaa1de434e4e39f"
-metafile = true
-
-[[files]]
-file = "mods/hourglass.pw.toml"
-hash = "0fd4e39201d42fc5f347a386b0beedcb7a9e81e3dcf7752d3ae88cd3968e0d27"
 metafile = true
 
 [[files]]
