@@ -234,7 +234,7 @@ hash = "54e706d2a7662b4799182abd5963c1bfa9682df54142dd6861e7e69bb4de408d"
 
 [[files]]
 file = "config/snowrealmagic-common.toml"
-hash = "f7f156afb7f98db27d3734bb466a33b9519206be153a4e8f9d36eba019807e00"
+hash = "7bf1d4651a7329738a4169fa85b454bb5f864cdd0d09caaacfc9e2355aa25220"
 
 [[files]]
 file = "config/starterkit.json5"
@@ -1647,11 +1647,6 @@ hash = "dda18cb30c6c88e7f45e29dfeb32273da72c159eb4e3469080d27ae2ff5a7fe9"
 metafile = true
 
 [[files]]
-file = "mods/snowy-spirit.pw.toml"
-hash = "2fd070334ef125f06d2946de5a5215266f2125b864c0537ad37ae182e9864466"
-metafile = true
-
-[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "5b1a78ae497977fdd1a0f9068368f4806bcd8cc627bfa6c947e0f5fcec2961be"
 metafile = true
@@ -1894,11 +1889,6 @@ metafile = true
 [[files]]
 file = "mods/woodworks.pw.toml"
 hash = "5187d0e00d72edbe3c07a5c2325298ad8799bddd2889b7819f4494318873f385"
-metafile = true
-
-[[files]]
-file = "mods/xl-packets.pw.toml"
-hash = "69a85643d125b0454ed6408cfa4a7cea1b3566c78ed3fd5f3107f93fa852f1c9"
 metafile = true
 
 [[files]]
