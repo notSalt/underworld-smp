@@ -48,11 +48,11 @@
 			base_roof = true
 
 		[types.cut_block_type.windswept]
-			holly = true
-			chestnut = true
-			snow_brick = true
-			packed_ice_brick = true
-			blue_ice_brick = true
+			holly = false
+			chestnut = false
+			snow_brick = false
+			packed_ice_brick = false
+			blue_ice_brick = false
 
 		[types.cut_block_type.stoneworks]
 			granite_paver = true
@@ -936,8 +936,8 @@
 			gourdrot = true
 
 		[types.wood_type.windswept]
-			holly = true
-			chestnut = true
+			holly = false
+			chestnut = false
 
 		[types.wood_type.byg]
 			aspen = true
@@ -1076,8 +1076,8 @@
 			gourdrot = true
 
 		[types.leaves_type.windswept]
-			holly = true
-			chestnut = true
+			holly = false
+			chestnut = false
 
 		[types.leaves_type.ecologics]
 			coconut = true

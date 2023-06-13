@@ -49,6 +49,4 @@ ServerEvents.recipes(event => {
     json.add('key', key)
     recipe.json = json
   })
-
-
 })

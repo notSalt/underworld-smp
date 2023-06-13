@@ -1,0 +1,13 @@
+name = "Corail Woodcutter Extension"
+filename = "corail_woodcutter_extension_byg-1.19.2-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d9742dd597d57cbc5231e0af8ca5b418e06bee75"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3955196
+project-id = 496541
