@@ -229,7 +229,7 @@
 			flowering_azalea = true
 
 		[types.cut_block_type.occultism]
-			otherstone = true
+			otherstone = false
 
 		[types.cut_block_type.byg]
 			cattail_thatch = true
@@ -751,9 +751,6 @@
 		[types.cut_block_type.gardens_of_the_dead]
 			soulblight = false
 			whistlecane = false
-
-		[types.cut_block_type.snowyspirit]
-			gingerbread = false
 
 		[types.cut_block_type.atmospheric]
 			rosewood = false
@@ -1410,10 +1407,10 @@
 			planks_path = true
 
 		[entries.wood_type.twilightforest]
-			banister = true
-			hollow_log_climbable = true
-			hollow_log_horizontal = true
-			hollow_log_vertical = true
+			banister = false
+			hollow_log_climbable = false
+			hollow_log_horizontal = false
+			hollow_log_vertical = false
 
 		[entries.wood_type.decorative_blocks]
 			seat = true
@@ -1425,8 +1422,8 @@
 			cabinet = true
 
 		[entries.wood_type.mcwlights]
-			tiki_torch = true
-			soul_tiki_torch = true
+			tiki_torch = false
+			soul_tiki_torch = false
 
 		[entries.wood_type.twigs]
 			table = true
@@ -1434,6 +1431,42 @@
 		[entries.wood_type.create]
 			window_pane = false
 			window = false
+
+		[entries.wood_type.cfm]
+			stripped_kitchen_sink_light = true
+			coffee_table = true
+			stripped_kitchen_counter = true
+			stripped_bedside_cabinet = true
+			desk_cabinet = true
+			kitchen_counter = true
+			upgraded_gate = true
+			crate = true
+			stripped_blinds = true
+			bedside_cabinet = true
+			stripped_cabinet = true
+			desk = true
+			stripped_kitchen_drawer = true
+			kitchen_sink_dark = true
+			stripped_desk_cabinet = true
+			blinds = true
+			stripped_desk = true
+			stripped_coffee_table = true
+			stripped_crate = true
+			table = true
+			park_bench = true
+			upgraded_fence = true
+			stripped_park_bench = true
+			cabinet = true
+			mail_box = true
+			chair = true
+			stripped_mail_box = true
+			stripped_upgraded_fence = true
+			kitchen_drawer = true
+			stripped_table = true
+			stripped_chair = true
+			stripped_kitchen_sink_dark = true
+			kitchen_sink_light = true
+			stripped_upgraded_gate = true
 
 	[entries.leaves_type]
 
@@ -1445,5 +1478,8 @@
 			hedge = true
 
 		[entries.leaves_type.woodworks]
-			leaf_pile = true
+			leaf_pile = false
+
+		[entries.leaves_type.cfm]
+			hedge = true
 
