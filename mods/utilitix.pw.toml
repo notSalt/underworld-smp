@@ -1,0 +1,13 @@
+name = "UtilitiX"
+filename = "UtilitiX-1.19.2-0.7.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MMMWYsjm/versions/o0UPVEGL/UtilitiX-1.19.2-0.7.9.jar"
+hash-format = "sha1"
+hash = "bd94620216bcd1b30e2c6a5b54ae5dcb6eb8951c"
+
+[update]
+[update.modrinth]
+mod-id = "MMMWYsjm"
+version = "o0UPVEGL"

@@ -7,11 +7,6 @@ ServerEvents.tags('item', event => {
 })
 
 ServerEvents.recipes(event => {
-  // cooked eggs recipe conflict
-  event.remove({ output: "incubation:fried_egg" })
-  event.remove({ output: "naturalist:cooked_egg" })
-  event.smoking("minecraft:egg", "farmersdelight:fried_egg")
-
   // blue skies tools
   let planks = Ingredient.of('#minecraft:planks').subtract(Ingredient.of('#blue_skies:planks'))
   event.forEachRecipe({ id: /minecraft:wooden_(hoe|shovel|pickaxe|sword|axe)/ }, recipe => {

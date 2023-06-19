@@ -249,6 +249,10 @@ file = "config/starterkit/starterkit.txt"
 hash = "ec8adad78c7c855f7f1656bdd44aced20c385767eb5a064da00e7d874377c6de"
 
 [[files]]
+file = "config/takesapillage-common.toml"
+hash = "f2057cc317193299713e41caf816305b623b30ad0342daf4215c6f7c6ae93e19"
+
+[[files]]
 file = "config/veinmining-client.toml"
 hash = "27f5b4ed68122e9821102ee05b32181aae2157f000fd9f8eb8f1f40e78dc75fa"
 
@@ -290,7 +294,7 @@ hash = "88524d5d18411db7c57ef1b09cdd9b6258dbb5521ef53888fa8a4be312bc58db"
 
 [[files]]
 file = "kubejs/server_scripts/conflicts.js"
-hash = "9ee3ff2d85772e6b647671a6aa58b91b05aa578cbeef8de86cd02ced02b97cae"
+hash = "06b30dfa880f40a571d8d7433a1dc923048fc8d65d455fd6c119be0c8d88aca6"
 
 [[files]]
 file = "kubejs/server_scripts/mods/farmingForBlockheads/market.js"
@@ -597,6 +601,11 @@ metafile = true
 [[files]]
 file = "mods/connectivity.pw.toml"
 hash = "7c1bcf396290bf3e32b9f1e44f128d5f1568ab18e48c821defb001c226c59a2e"
+metafile = true
+
+[[files]]
+file = "mods/construction-wand.pw.toml"
+hash = "ea50ffe105662eb20c7cdcad6c4a2f5643813716391649f2e134db94a6bb2e31"
 metafile = true
 
 [[files]]
@@ -1135,6 +1144,11 @@ hash = "e01b80a9797007df118caea7f9b87d6b426cbe7c15f23517e0cd220845141463"
 metafile = true
 
 [[files]]
+file = "mods/let-me-despawn.pw.toml"
+hash = "747fdf61ef74db571cb9ba97792c7ba8c3712720cfceb23e990a6297ca0e1521"
+metafile = true
+
+[[files]]
 file = "mods/lets-do-wine.pw.toml"
 hash = "d7f39eeaef2192d938c8af337c957202cf450646db1e2515de2036b96d778ba7"
 metafile = true
@@ -1147,6 +1161,11 @@ metafile = true
 [[files]]
 file = "mods/library-ferret-forge.pw.toml"
 hash = "75db5a82c47c470b5f7483ef8008073616ebe218672d9fb60242de5788c6d764"
+metafile = true
+
+[[files]]
+file = "mods/libx.pw.toml"
+hash = "e9990df2dd8d44af4b77de74747f2b31f96d458dc41261c524ff697945cb42ad"
 metafile = true
 
 [[files]]
@@ -1305,6 +1324,11 @@ hash = "f349720f05bacd441290629a2aabb95a8c5f742227037900db022f4e0258f2de"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "ebe4f9026b88b5e526c15cfb5a00f78b3c7538970df343803fbcdf36ede37534"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "f21458c889339ab7d1fa5746d70fa7ba2dbf22f5c6eba8380b03c70a466f3b8c"
 metafile = true
@@ -1402,6 +1426,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "a0b717e012441e2bef8d9c1b7222dd9b25adf06d55ace1144eabf3ee6f637733"
+metafile = true
+
+[[files]]
+file = "mods/pretty-pipes.pw.toml"
+hash = "030359a55f6f1396e4476a56c6a20c152891725d05399b894b4c161c509d87bc"
 metafile = true
 
 [[files]]
@@ -1745,6 +1774,11 @@ hash = "b6839ff9274c1c1187f76b2000922defa6e95e3e69d3d79f5ef0eddca86cc582"
 metafile = true
 
 [[files]]
+file = "mods/utilitix.pw.toml"
+hash = "c51c503c78299f79e0d6961e3284f1fe2ae16f8dff404355a570ddc37a7a2fc5"
+metafile = true
+
+[[files]]
 file = "mods/vein-mining.pw.toml"
 hash = "f5e91cd6cd3de7918e46b602cd4051baea37eeb005e39ee6c6fb8db0045d2573"
 metafile = true
@@ -1762,6 +1796,11 @@ metafile = true
 [[files]]
 file = "mods/villagersplus-forge.pw.toml"
 hash = "4bce4b6e738582744f5647badde4f878df61bcc95ed3f87761c1138832ceeaac"
+metafile = true
+
+[[files]]
+file = "mods/visual-workbench.pw.toml"
+hash = "de92543e67785a10dba40d50fc9deebb1990d19965e0b73b9cd63be55260e62d"
 metafile = true
 
 [[files]]
