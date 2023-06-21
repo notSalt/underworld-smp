@@ -294,7 +294,7 @@ hash = "88524d5d18411db7c57ef1b09cdd9b6258dbb5521ef53888fa8a4be312bc58db"
 
 [[files]]
 file = "kubejs/server_scripts/conflicts.js"
-hash = "06b30dfa880f40a571d8d7433a1dc923048fc8d65d455fd6c119be0c8d88aca6"
+hash = "dbfe3be8d926a22951f3394791ff2f3a9c173e4cef82ed9fa6acbd310a2e070c"
 
 [[files]]
 file = "kubejs/server_scripts/mods/farmingForBlockheads/market.js"
