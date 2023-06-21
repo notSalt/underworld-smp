@@ -1,0 +1,13 @@
+name = "Visuality: Reforged"
+filename = "visuality-forge-2.0.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "2ddcd462db22464a45d18415b4e890f331815cd4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4595926
+project-id = 704256

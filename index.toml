@@ -298,7 +298,7 @@ hash = "bd04a21e9694d77cc341aeae88e24c19a5bd42e36c8bd1262a2ce46c1a42a9e5"
 
 [[files]]
 file = "kubejs/server_scripts/conflicts.js"
-hash = "072daa76fc401bced6642481cbda61f3dc8c761a3359c3ab91caf7caf2f59989"
+hash = "06b30dfa880f40a571d8d7433a1dc923048fc8d65d455fd6c119be0c8d88aca6"
 
 [[files]]
 file = "kubejs/server_scripts/mods/farmingForBlockheads/market.js"
@@ -323,7 +323,7 @@ metafile = true
 
 [[files]]
 file = "mods/abundant-atmosphere.pw.toml"
-hash = "5d20eabee76854b2561d08564f1b1124c6cc863084d360a0232910a7c3d563d8"
+hash = "e016a3c64b661906387a4b99b7a7739f902ff8f0e30603d0ad3770e1081971a6"
 metafile = true
 
 [[files]]
@@ -1043,7 +1043,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast-reforged.pw.toml"
-hash = "3e44631a5f866a92e98ac2b9b0db34557a7d11ef00fe73397c7982d93a9849e4"
+hash = "c4b331925119666742157317bd978c0b3c655cfb54ec89cb536da61a36193d1b"
 metafile = true
 
 [[files]]
@@ -1517,11 +1517,6 @@ hash = "7c84d32eaabeec10d0f9c0444c48d8e7b377b2e6ab485c3a98512aac89789560"
 metafile = true
 
 [[files]]
-file = "mods/reauth.pw.toml"
-hash = "71ea9ac031814496a679ede967bbd8db9b765a2725dbfddee7f0b90e653abd38"
-metafile = true
-
-[[files]]
 file = "mods/repurposed-structures.pw.toml"
 hash = "54ee8e257ffabe5f42fb6bd5ed60fe3fca76d04d4fa2031e865fc86bca0d1675"
 metafile = true
@@ -1864,6 +1859,11 @@ metafile = true
 [[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "de92543e67785a10dba40d50fc9deebb1990d19965e0b73b9cd63be55260e62d"
+metafile = true
+
+[[files]]
+file = "mods/visuality-reforged.pw.toml"
+hash = "a63d0a9100be5d8cd4e7bc5d86170cf9651037fa8f07832c3315c2c5c9f2bed3"
 metafile = true
 
 [[files]]

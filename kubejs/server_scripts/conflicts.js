@@ -7,21 +7,6 @@ ServerEvents.tags('item', event => {
 })
 
 ServerEvents.recipes(event => {
-  // vinery wine box
-  event.remove({ id: 'vinery:wine_box' })
-  event.shaped(
-    Item.of('vinery:wine_box', 1),
-    [
-      '   ',
-      'ABA',
-      'AAA'
-    ],
-    {
-      A: '#minecraft:wooden_slabs',
-      B: '#forge:glass_panes'
-    }
-  )
-
   // blue skies tools
   let planks = Ingredient.of('#minecraft:planks').subtract(Ingredient.of('#blue_skies:planks'))
   event.forEachRecipe({ id: /minecraft:wooden_(hoe|shovel|pickaxe|sword|axe)/ }, recipe => {
