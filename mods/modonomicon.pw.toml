@@ -1,13 +1,13 @@
 name = "Modonomicon"
-filename = "modonomicon-1.19.2-1.30.2.jar"
+filename = "modonomicon-1.19.2-1.33.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2d76687170044e6e54744085a4d56672ed1c94b9"
+hash = "40aa7e6ac8f319659097080437e38c794112634e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4519294
+file-id = 4584125
 project-id = 538392

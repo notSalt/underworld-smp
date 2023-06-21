@@ -8,7 +8,7 @@ ServerEvents.tags('item', event => {
 
 ServerEvents.recipes(event => {
   // vinery wine box
-  event.remove({ id: 'vinery:wine_box' }) // remove bad recipe
+  event.remove({ id: 'vinery:wine_box' })
   event.shaped(
     Item.of('vinery:wine_box', 1),
     [

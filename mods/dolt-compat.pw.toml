@@ -1,13 +1,13 @@
 name = "Dolt Compat"
-filename = "dolt_compat-1.19.2-1.1.1.jar"
+filename = "dolt_compat-1.19.2-1.1.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "8ab32a7edf6d1996525e7b3615823e9d872c5e4f"
+hash = "2df59ad9a7416d49a7ca4c7aa2d2206350047bc2"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4550350
+file-id = 4597558
 project-id = 857498

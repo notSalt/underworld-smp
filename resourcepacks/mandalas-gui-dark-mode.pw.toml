@@ -1,12 +1,12 @@
 name = "Mandala's GUI - Dark mode"
-filename = "MandalasGUI.zip"
-side = "client"
+filename = "MandalasGUI_Legacy+Modded_Dakmode_v4.2.zip"
+side = "both"
 
 [download]
 hash-format = "sha1"
 hash = "edea8985bfa268a5943c532ba5dbe28fc07b88fc"
 mode = "url"
-url = "https://files.notsalt.com/MandalasGUI.zip"
+url = "https://files.notsalt.com/MandalasGUI_Legacy%2BModded_Dakmode_v4.2.zip"
 
 [update]
 [update.curseforge]

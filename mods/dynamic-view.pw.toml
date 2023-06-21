@@ -1,6 +1,6 @@
 name = "Dynamic View[Forge]"
 filename = "dynview-1.19.1-2.9.jar"
-side = "server"
+side = "both"
 
 [download]
 hash-format = "sha1"

@@ -7,8 +7,3 @@ hash-format = "sha1"
 hash = "9aeba68908b086b8eb74a731b0c4b34795799b88"
 mode = "url"
 url = "https://files.notsalt.com/Create_Simple_Storage_2.1.zip"
-
-[update]
-[update.curseforge]
-file-id = 4559986
-project-id = 776419
