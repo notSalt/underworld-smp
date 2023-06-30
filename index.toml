@@ -892,6 +892,11 @@ hash = "ba70f597e6ed7a809456259024914658a7dea3feddb5a05ddc10d8862ea4ab40"
 metafile = true
 
 [[files]]
+file = "mods/exchangers.pw.toml"
+hash = "9fcb307049012f270285f35f57b696d42aab81caf368b2124f1605098aaeccce"
+metafile = true
+
+[[files]]
 file = "mods/explorations.pw.toml"
 hash = "9cc9daa46cd2ff18f36f10c323ece764b6a9dee0ee877aec48c84429b3fae269"
 metafile = true
@@ -1014,6 +1019,11 @@ metafile = true
 [[files]]
 file = "mods/guard-villagers.pw.toml"
 hash = "d50c3d071011a3b7fa8689c8acf61de5a3dee35bd25ad54cefd996abf34bf4cb"
+metafile = true
+
+[[files]]
+file = "mods/gunpowderlib.pw.toml"
+hash = "c3fe231215973e1e60b69b2d3d3782a5380806158dfcf9d04409d284c8c91ad1"
 metafile = true
 
 [[files]]
@@ -1209,6 +1219,11 @@ metafile = true
 [[files]]
 file = "mods/lightspeedmod.pw.toml"
 hash = "ddd8ca1033813f4b52b7ba1026699fa363a2ed61f564c1530773075e31b515fc"
+metafile = true
+
+[[files]]
+file = "mods/limited-chunkloading.pw.toml"
+hash = "2dce0c7b8644c0f6a1defb5696c1b2cd6fb12debc04d50ed75413473c1afcd09"
 metafile = true
 
 [[files]]

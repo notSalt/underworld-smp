@@ -1,0 +1,13 @@
+name = "Exchangers"
+filename = "Exchangers-1.19.2-3.3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ce8d1ccddce1f7facf38ca6e8172beef3cac3250"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4546621
+project-id = 270183
